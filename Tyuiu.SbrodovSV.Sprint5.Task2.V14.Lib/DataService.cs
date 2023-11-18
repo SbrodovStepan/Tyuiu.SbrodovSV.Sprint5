@@ -12,7 +12,7 @@ namespace Tyuiu.SbrodovSV.Sprint5.Task2.V14.Lib
     {
         public string SaveToFileTextData(int[,] matrix)
         {
-            string path = $@"{Directory.GetCurrentDirectory()}\OutPutFileTask2.txt";
+            string path = $@"{Directory.GetCurrentDirectory()}\OutPutFileTask2.csv";
             FileInfo fileinfo = new FileInfo(path);
             bool fileExists = fileinfo.Exists;
             if (fileExists)

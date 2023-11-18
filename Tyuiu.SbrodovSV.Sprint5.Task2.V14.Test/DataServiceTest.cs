@@ -11,7 +11,7 @@ namespace Tyuiu.SbrodovSV.Sprint5.Task2.V14.Test
         [TestMethod]
         public void TestMethod1()
         {
-            string path = @"D:\Project's C#\Tyuiu.SbrodovSV.Sprint5\Tyuiu.SbrodovSV.Sprint5.Task2.V14\bin\Debug\OutPutFileTask2.txt";
+            string path = @"D:\Project's C#\Tyuiu.SbrodovSV.Sprint5\Tyuiu.SbrodovSV.Sprint5.Task2.V14\bin\Debug\OutPutFileTask2.csv";
             FileInfo fileinfo = new FileInfo(path);
             bool fileExists = fileinfo.Exists;
             Assert.IsTrue(fileExists);

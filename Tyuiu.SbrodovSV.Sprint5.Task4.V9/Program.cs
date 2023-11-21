@@ -17,8 +17,8 @@ namespace Tyuiu.SbrodovSV.Sprint5.Task4.V9
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #5                                                               *");
             Console.WriteLine("* Тема: Чтение данных из текстового файла                                 *");
-            Console.WriteLine("* Задание #3                                                              *");
-            Console.WriteLine("* Вариант #5                                                              *");
+            Console.WriteLine("* Задание #4                                                              *");
+            Console.WriteLine("* Вариант #9                                                              *");
             Console.WriteLine("* Выполнил: Сбродов Степан Владимирович | АСОиУБ-23-2                     *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
